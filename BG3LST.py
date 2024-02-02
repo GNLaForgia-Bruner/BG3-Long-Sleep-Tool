@@ -1,5 +1,5 @@
 def ask_completion():
-    print("Baulder's Gate 3 - Post-Sleep Tracker")
+    print("Baldur's Gate 3 - Post-Sleep Tracker")
     print("Open Source & Free - Please support Larian Studios")
     print("Created by: Apollo - Discord: Gruffalo#0000\n")
 
